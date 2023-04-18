@@ -49,7 +49,7 @@ class ProfilView extends GetView<ProfilController> {
             ),
             Center(
               child: Text(
-                'Muhamad Dimas ',
+                'RIFQI AQIL WIBAWA',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 30,
@@ -58,7 +58,7 @@ class ProfilView extends GetView<ProfilController> {
             ),
             Center(
               child: Text(
-                'suizen86@unpak.ac.id',
+                'aqil.065119204@unpak.ac.id',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 15,
@@ -100,7 +100,7 @@ class ProfilView extends GetView<ProfilController> {
                         Container(
                           padding: EdgeInsets.only(left: 165, top: 10),
                           child: Text(
-                            '065119187',
+                            '065119204',
                             style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 18,
@@ -234,9 +234,9 @@ class ProfilView extends GetView<ProfilController> {
                       child: Text('Nama Lengkap'),
                     ),
                     Container(
-                      padding: EdgeInsets.only(left: 130),
+                      padding: EdgeInsets.only(left: 120),
                       child: Text(
-                        'Muhamad Dimas',
+                        'RIFQI AQIL WIBAWA',
                         style: TextStyle(color: Colors.grey),
                       ),
                     ),
@@ -266,9 +266,9 @@ class ProfilView extends GetView<ProfilController> {
                       child: Text('Panggilan'),
                     ),
                     Container(
-                      padding: EdgeInsets.only(left: 230),
+                      padding: EdgeInsets.only(left: 250),
                       child: Text(
-                        'Dimas',
+                        'Aqil',
                         style: TextStyle(color: Colors.grey),
                       ),
                     ),
